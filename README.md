@@ -14,3 +14,5 @@ Portfreigabe, um ArchivesSpace aufrufen zu können:
 Zugangsdaten:
 * Username: `admin`
 * Password: `admin`
+
+Bis die Anwendung verfügbar ist, vergehen mehrere Minuten. Im Terminal erscheinen laufend weitere Debug-Meldungen.
